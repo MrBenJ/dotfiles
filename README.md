@@ -15,6 +15,7 @@ You'll need these homebrew utilities
 brew install jq
 brew install thefuck
 brew install python3
+brew install gti
 ```
 
 There are other utilities that I use, like `Sublime Text` (my personal editor of choice at the time of this writing), and `git-bash-completion` which can be found at [This link here](https://git-scm.com/book/en/v1/Git-Basics-Tips-and-Tricks)

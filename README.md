@@ -32,3 +32,7 @@ Other tools (non-homebrew)
 * Pip
 
 Have fun! If you have other cool stuff you'd like to share, or find a typo (most likely). I'm open to PRs.
+
+## zsh
+
+If you're on MacOS Catalina or newer, make sure you install [oh-my-zsh](https://ohmyz.sh/) before swapping out the `.zshrc` file here. You'll still need all the same homebrew tooling as well
